@@ -1,0 +1,5 @@
+Signature: 4/4/4
+Bpm: 128
+Key: Em
+Scale: Pentatonic
+E, G, A, B, D, E
