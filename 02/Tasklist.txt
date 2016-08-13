@@ -1,3 +1,5 @@
-* Analyse Skrillex 'kill everybody'
-* Create drumrack
-* Create 
+* Analyse Skrillex 'kill everybody' (done)
+* Create drumrack (done)
+* Create beats for intro, verse and chorus
+* Creat wubs bass
+* Figure out sidechaining for bass
