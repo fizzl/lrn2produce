@@ -18,3 +18,5 @@ https://soundcloud.com/fizzlnet/
 * Synth1
 * Novation V-Station
 * Novation B-Station
+* Massive Demo
+* Serum Demo
